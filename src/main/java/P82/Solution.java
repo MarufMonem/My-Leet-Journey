@@ -54,6 +54,7 @@ class Solution {
                         head = uniqueNode.next;
                     }
                     uniqueNode.next = checker;
+
                 }
 
             }
