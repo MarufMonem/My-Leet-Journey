@@ -1,5 +1,7 @@
 package P142;
 
+import Solution_related_classes.ListNode;
+
 public class solution_v1 {
 
     /**

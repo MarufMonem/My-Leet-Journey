@@ -1,5 +1,7 @@
 package P2;
 
+import Solution_related_classes.ListNode;
+
 public class Solution_v1 {
 
     // would work for most cases except for really large numbers

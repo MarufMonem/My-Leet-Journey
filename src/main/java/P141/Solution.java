@@ -1,5 +1,7 @@
 package P141;
 
+import Solution_related_classes.ListNode;
+
 /**
  * Definition for singly-linked list.
  * class ListNode {

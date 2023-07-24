@@ -1,3 +1,5 @@
+import Solution_related_classes.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

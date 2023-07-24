@@ -1,5 +1,7 @@
 package P142;
 
+import Solution_related_classes.ListNode;
+
 public class Solution_v2 {
         public ListNode detectCycle(ListNode head) {
             if(head == null){
