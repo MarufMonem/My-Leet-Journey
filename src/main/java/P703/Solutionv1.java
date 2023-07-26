@@ -1,6 +1,6 @@
 package P703;
 
-public class Solution {
+public class Solutionv1 {
     public static void main(String[] args) {
         int nums[] = {0};
         KthLargest obj = new KthLargest(2, nums);
