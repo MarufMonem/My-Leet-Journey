@@ -60,7 +60,7 @@ public class Solution {
     public static void main(String[] args) {
         int nums1[]={1,1,2};
         int nums2[]={1,2,3};
-        List<List<Integer>> ll1 = kSmallestPairs(nums1, nums2, 2);
+        List<List<Integer>> ll1 = kSmallestPairs(nums1, nums2, 3);
         System.out.println(ll1.toString());
 
     }
